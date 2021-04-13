@@ -1,6 +1,4 @@
 # Hemeroteca Histórica de Tarifa
-* Repositorio de Hemeroteca Histórica de Tarifa
-<div>Museo-Fundación Wenceslao Segura</div>
 
  <div>
 <a href="https://hemerotecadetarifa.github.io/hemeroteca/Al Qantir - 2 - Año 2004.pdf" target="_parent">Al Qantir 2</a><br>
