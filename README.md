@@ -14,5 +14,15 @@
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 8 - Año 2001.pdf" target="_parent"> Puerta de Jerez 8 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 9 - Año 2002.pdf" target="_parent"> Puerta de Jerez 9 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 10 - Año 2002.pdf" target="_parent"> Puerta de Jerez 10 </a> <br>
- <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 11 - Año 2002.pdf" target="_parent"> Puerta de Jerez 11 </a> <br></div>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 11 - Año 2002.pdf" target="_parent"> Puerta de Jerez 11 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 12 - Año 2002.pdf" target="_parent"> Puerta de Jerez 12 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 13 - Año 2002.pdf" target="_parent"> Puerta de Jerez 13 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 14 - Año 2002.pdf" target="_parent"> Puerta de Jerez 14 </a> <br>
+<a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 15 - Año 2003.pdf" target="_parent"> Puerta de Jerez 15 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 16 - Año 2003.pdf" target="_parent"> Puerta de Jerez 16 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 17 - Año 2003.pdf" target="_parent"> Puerta de Jerez 17 </a> <br>
+ 
+ 
+ 
+ 
  
