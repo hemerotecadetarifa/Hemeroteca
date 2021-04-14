@@ -1,4 +1,4 @@
-
+<div> ==Puerta de Jerez == <div>
 <div>
 <a href="https://hemerotecadetarifa.github.io/hemeroteca/Al Qantir - 2 - Año 2004.pdf" target="_parent">Al Qantir 2</a><br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 1 - Año 2000.pdf" target="_blank"> Puerta de Jerez 1 </a> <br>
@@ -33,6 +33,34 @@
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 30 - Año 2007.pdf" target="_parent"> Puerta de Jerez 30 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 31 - Año 2007.pdf" target="_parent"> Puerta de Jerez 31 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 32 - Año 2008.pdf" target="_parent"> Puerta de Jerez 32 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 33 - Año 2008.pdf" target="_parent"> Puerta de Jerez 33 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 34 - Año 2010.pdf" target="_parent"> Puerta de Jerez 34 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 35 - Año 2010.pdf" target="_parent"> Puerta de Jerez 35 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 36 - Año 2011.pdf" target="_parent"> Puerta de Jerez 36 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 37 - Año 2011.pdf" target="_parent"> Puerta de Jerez 37 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 38 - Año 2012.pdf" target="_parent"> Puerta de Jerez 38 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 39 - Año 2012.pdf" target="_parent"> Puerta de Jerez 39 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 40 - Año 2013.pdf" target="_parent"> Puerta de Jerez 40 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 41 - Año 2013.pdf" target="_parent"> Puerta de Jerez 41 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 42 - Año 2014.pdf" target="_parent"> Puerta de Jerez 42 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 43 - Año 2014.pdf" target="_parent"> Puerta de Jerez 43 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 44 - Año 2015.pdf" target="_parent"> Puerta de Jerez 44 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 45 - Año 2015.pdf" target="_parent"> Puerta de Jerez 45 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 46 - Año 2016.pdf" target="_parent"> Puerta de Jerez 46 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 47 - Año 2016.pdf" target="_parent"> Puerta de Jerez 47 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 48 - Año 2017.pdf" target="_parent"> Puerta de Jerez 48 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 49 - Año 2017.pdf" target="_parent"> Puerta de Jerez 49 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 50 - Año 2018.pdf" target="_parent"> Puerta de Jerez 50 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 51 - Año 2018.pdf" target="_parent"> Puerta de Jerez 51 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 52 - Año 2019.pdf" target="_parent"> Puerta de Jerez 52 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 53 - Año 2019.pdf" target="_parent"> Puerta de Jerez 53 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 54 - Año 2019.pdf" target="_parent"> Puerta de Jerez 54 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 55 - Año 2020.pdf" target="_parent"> Puerta de Jerez 55 </a> <br>
+ 
+ 
+ 
+ 
+ 
  
  
  
