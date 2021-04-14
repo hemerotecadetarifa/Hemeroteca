@@ -1,4 +1,5 @@
 <div> ===PUERTA DE JEREZ === <div>
+ <br>
 <div>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 1 - Año 2000.pdf" target="_blank"> Puerta de Jerez 1 </a> <br>
 <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 2 - Año 2000.pdf" target="_parent">Puerta de Jerez 2 </a><br>
@@ -56,6 +57,7 @@
   <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 54 - Año 2019.pdf" target="_parent"> Puerta de Jerez 54 </a> <br>
   <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 55 - Año 2020.pdf" target="_parent"> Puerta de Jerez 55 </a> <br>
  
+ <br>
  <div> ===AL QANTIR === <div>
 <br>
  <div>
