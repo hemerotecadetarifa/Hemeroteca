@@ -1,6 +1,5 @@
-<div> ==Puerta de Jerez == <div>
+<div> ===PUERTA DE JEREZ === <div>
 <div>
-<a href="https://hemerotecadetarifa.github.io/hemeroteca/Al Qantir - 2 - Año 2004.pdf" target="_parent">Al Qantir 2</a><br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 1 - Año 2000.pdf" target="_blank"> Puerta de Jerez 1 </a> <br>
 <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 2 - Año 2000.pdf" target="_parent">Puerta de Jerez 2 </a><br>
 <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 3 - Año 2001.pdf" target="_parent"> Puerta de Jerez 3 </a> <br>
@@ -56,6 +55,35 @@
   <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 53 - Año 2019.pdf" target="_parent"> Puerta de Jerez 53 </a> <br>
   <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 54 - Año 2019.pdf" target="_parent"> Puerta de Jerez 54 </a> <br>
   <a href="https://hemerotecadetarifa.github.io/hemeroteca/Puerta de Jerez - 55 - Año 2020.pdf" target="_parent"> Puerta de Jerez 55 </a> <br>
+ 
+ <div> ===AL QANTIR == <div>
+ <div>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Al Qantir - 1 - Año 2003.pdf" target="_parent"> Al Qantir 1 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Al Qantir - 2 - Año 2004.pdf" target="_parent"> Al Qantir 2 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Al Qantir - 3 - Año 2005.pdf" target="_parent"> Al Qantir 3 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Al Qantir - 4 - Año 2007.pdf" target="_parent"> Al Qantir 4 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Al Qantir - 5 - Año 2008.pdf" target="_parent"> Al Qantir 5 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Al Qantir - 6 - Año 2009.pdf" target="_parent"> Al Qantir 6 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Al Qantir - 7 - Año 2009.pdf" target="_parent"> Al Qantir 7 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Al Qantir - 8 - Año 2009.pdf" target="_parent"> Al Qantir 8 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Al Qantir - 9 - Año 2010.pdf" target="_parent"> Al Qantir 9 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Al Qantir - 10 - Año 2010.pdf" target="_parent"> Al Qantir 10 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Al Qantir - 11 - Año 2011.pdf" target="_parent"> Al Qantir 11 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Al Qantir - 12 - Año 2012.pdf" target="_parent"> Al Qantir 12 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Al Qantir - 13 - Año 2012.pdf" target="_parent"> Al Qantir 13 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Al Qantir - 14 - Año 2013.pdf" target="_parent"> Al Qantir 14 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Al Qantir - 14(2) - Año 2013.pdf" target="_parent"> Al Qantir 14(2) </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Al Qantir - 15 - Año 2013.pdf" target="_parent"> Al Qantir 15 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Al Qantir - 17 - Año 2015.pdf" target="_parent"> Al Qantir 17 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Al Qantir - 18 - Año 2015.pdf" target="_parent"> Al Qantir 18 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Al Qantir - 19 - Año 2016.pdf" target="_parent"> Al Qantir 19 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Al Qantir - 20 - Año 2017.pdf" target="_parent"> Al Qantir 20 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Al Qantir - 21 - Año 2018.pdf" target="_parent"> Al Qantir 21 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Al Qantir - 22 - Año 2018.pdf" target="_parent"> Al Qantir 22 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Al Qantir - 23 - Año 2019.pdf" target="_parent"> Al Qantir 23 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Al Qantir - 24 - Año 2019.pdf" target="_parent"> Al Qantir 24 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Al Qantir - 25 - Año 2020.pdf" target="_parent"> Al Qantir 25 </a> <br> </div>
+ 
  
  
  
