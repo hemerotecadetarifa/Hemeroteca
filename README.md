@@ -111,6 +111,12 @@
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 15 - Año 1994.pdf" target="_blank"> Aljaranda 15 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 16 - Año 1995.pdf" target="_blank"> Aljaranda 16 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 17 - Año 1995.pdf" target="_blank"> Aljaranda 17 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 18 - Año 1995.pdf" target="_blank"> Aljaranda 18 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 19 - Año 1995.pdf" target="_blank"> Aljaranda 19 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 20 - Año 1996.pdf" target="_blank"> Aljaranda 20 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 21 - Año 1996.pdf" target="_blank"> Aljaranda 21 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 22 - Año 1996.pdf" target="_blank"> Aljaranda 22 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 23 - Año 1996.pdf" target="_blank"> Aljaranda 23 </a> <br>
  
  
  
