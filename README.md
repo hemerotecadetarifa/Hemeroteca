@@ -87,7 +87,7 @@
   <a href="https://hemerotecadetarifa.github.io/hemeroteca/Al Qantir - 23 - Año 2019.pdf" target="_parent"> Al Qantir 23 </a> <br>
   <a href="https://hemerotecadetarifa.github.io/hemeroteca/Al Qantir - 24 - Año 2019.pdf" target="_parent"> Al Qantir 24 </a> <br>
   <a href="https://hemerotecadetarifa.github.io/hemeroteca/Al Qantir - 25 - Año 2020.pdf" target="_parent"> Al Qantir 25 </a> <br>
-  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Al Qantir - 26 - Año 2020.pdf" target="_parent"> Al Qantir 25 </a> <br> </div>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Al Qantir - 26 - Año 2020.pdf" target="_parent"> Al Qantir 26 </a> <br> </div>
  
  <br>
  <div> === ALJARANDA === <div>
