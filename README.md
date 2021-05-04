@@ -124,7 +124,15 @@
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 28 - Año 1998.pdf" target="_blank"> Aljaranda 28 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 29 - Año 1998.pdf" target="_blank"> Aljaranda 29 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 30 - Año 1998.pdf" target="_blank"> Aljaranda 30 </a> <br>
- 
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 31 - Año 1998.pdf" target="_blank"> Aljaranda 31 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 32 - Año 1999.pdf" target="_blank"> Aljaranda 32 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 33 - Año 1999.pdf" target="_blank"> Aljaranda 33 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 34 - Año 1999.pdf" target="_blank"> Aljaranda 34 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 35 - Año 1999.pdf" target="_blank"> Aljaranda 35 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 36 - Año 2000.pdf" target="_blank"> Aljaranda 36 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 37 - Año 2000.pdf" target="_blank"> Aljaranda 37 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 38 - Año 2000.pdf" target="_blank"> Aljaranda 38 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 39 - Año 2000.pdf" target="_blank"> Aljaranda 39 </a> <br>
  
  
  
