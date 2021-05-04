@@ -162,6 +162,16 @@
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 66 - Año 2007.pdf" target="_blank"> Aljaranda 66 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 67 - Año 2007.pdf" target="_blank"> Aljaranda 67 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 68 - Año 2008.pdf" target="_blank"> Aljaranda 68 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 69 - Año 2008.pdf" target="_blank"> Aljaranda 69 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 70 - Año 2008.pdf" target="_blank"> Aljaranda 70 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 71 - Año 2008.pdf" target="_blank"> Aljaranda 71 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 72 - Año 2009.pdf" target="_blank"> Aljaranda 72 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 73 - Año 2009.pdf" target="_blank"> Aljaranda 73 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 74 - Año 2009.pdf" target="_blank"> Aljaranda 74 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 75 - Año 2009.pdf" target="_blank"> Aljaranda 75 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 76 - Año 2010.pdf" target="_blank"> Aljaranda 76 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 77 - Año 2010.pdf" target="_blank"> Aljaranda 77 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 78 - Año 2010.pdf" target="_blank"> Aljaranda 78 </a> <br>
  
  
  
