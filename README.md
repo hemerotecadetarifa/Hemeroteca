@@ -197,6 +197,27 @@
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 3 - Año 1890.pdf" target="_blank"> El Defensor 3 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 4 - Año 1890.pdf" target="_blank"> El Defensor 4 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 5 - Año 1891.pdf" target="_blank"> El Defensor 5 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 6 - Año 1891.pdf" target="_blank"> El Defensor 6 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 7 - Año 1891.pdf" target="_blank"> El Defensor 7 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 8 - Año 1891.pdf" target="_blank"> El Defensor 8 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 9 - Año 1891.pdf" target="_blank"> El Defensor 9 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 10 - Año 1891.pdf" target="_blank"> El Defensor 10 </a> <br>
+   <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 11 - Año 1891.pdf" target="_blank"> El Defensor 11 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 12 - Año 1891.pdf" target="_blank"> El Defensor 12 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 13 - Año 1891.pdf" target="_blank"> El Defensor 13 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 14 - Año 1891.pdf" target="_blank"> El Defensor 14 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 15 - Año 1891.pdf" target="_blank"> El Defensor 15 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 16 - Año 1891.pdf" target="_blank"> El Defensor 16 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 17 - Año 1891.pdf" target="_blank"> El Defensor 17 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 18 - Año 1891.pdf" target="_blank"> El Defensor 18 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 19 - Año 1891.pdf" target="_blank"> El Defensor 19 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 20 - Año 1891.pdf" target="_blank"> El Defensor 20 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 21 - Año 1891.pdf" target="_blank"> El Defensor 21 </a> <br>
+   <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 22 - Año 1891.pdf" target="_blank"> El Defensor 22 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 23 - Año 1891.pdf" target="_blank"> El Defensor 23 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 24 - Año 1891.pdf" target="_blank"> El Defensor 24 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 25 - Año 1891.pdf" target="_blank"> El Defensor 25 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 26 - Año 1891.pdf" target="_blank"> El Defensor 26 </a> <br>
 
  
  
