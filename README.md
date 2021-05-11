@@ -187,6 +187,16 @@
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 91 - Año 2017.pdf" target="_blank"> Aljaranda 91 </a> <br>
   <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 92 - Año 2018.pdf" target="_blank"> Aljaranda 92 </a> <br>
   <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 93 - Año 2020.pdf" target="_blank"> Aljaranda 93 </a> <br>
+ 
+  <br>
+ <div> === EL DEFENSOR === <div>
+ <br>
+<div>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor 1 - Año 1890.pdf" target="_blank"> El Defensor 1 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 2 - Año 1890.pdf" target="_blank"> El Defensor 2 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 3 - Año 1890.pdf" target="_blank"> El Defensor 3 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 4 - Año 1890.pdf" target="_blank"> El Defensor 4 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 5 - Año 1891.pdf" target="_blank"> El Defensor 5 </a> <br>
 
  
  
