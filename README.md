@@ -212,12 +212,34 @@
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 18 - Año 1891.pdf" target="_blank"> El Defensor 18 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 19 - Año 1891.pdf" target="_blank"> El Defensor 19 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 20 - Año 1891.pdf" target="_blank"> El Defensor 20 </a> <br>
- <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 21 - Año 1891.pdf" target="_blank"> El Defensor 21 </a> <br>
-   <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 22 - Año 1891.pdf" target="_blank"> El Defensor 22 </a> <br>
- <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 23 - Año 1891.pdf" target="_blank"> El Defensor 23 </a> <br>
- <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 24 - Año 1891.pdf" target="_blank"> El Defensor 24 </a> <br>
- <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 25 - Año 1891.pdf" target="_blank"> El Defensor 25 </a> <br>
- <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 26 - Año 1891.pdf" target="_blank"> El Defensor 26 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 21 - Año 1891.pdf" target="_blank"> El Defensor de Tarifa 21 </a> <br>
+   <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 22 - Año 1891.pdf" target="_blank"> El Defensor de Tarifa 22 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 23 - Año 1891.pdf" target="_blank"> El Defensor de Tarifa 23 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 24 - Año 1891.pdf" target="_blank"> El Defensor de Tarifa 24 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 25 - Año 1891.pdf" target="_blank"> El Defensor de Tarifa 25 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 26 - Año 1891.pdf" target="_blank"> El Defensor de Tarifa 26 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 27 - Año 1891.pdf" target="_blank"> El Defensor de Tarifa 27 </a> <br>
+   <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 28 - Año 1891.pdf" target="_blank"> El Defensor de Tarifa 28 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 29 - Año 1891.pdf" target="_blank"> El Defensor de Tarifa 29 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 30 - Año 1891.pdf" target="_blank"> El Defensor de Tarifa 30 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 31 - Año 1891.pdf" target="_blank"> El Defensor de Tarifa 31 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 32 - Año 1891.pdf" target="_blank"> El Defensor de Tarifa 32 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 33 - Año 1891.pdf" target="_blank"> El Defensor de Tarifa 33 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 34 - Año 1891.pdf" target="_blank"> El Defensor de Tarifa 34 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 35 - Año 1891.pdf" target="_blank"> El Defensor de Tarifa 35 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 36 - Año 1891.pdf" target="_blank"> El Defensor de Tarifa 36 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 37 - Año 1891.pdf" target="_blank"> El Defensor de Tarifa 37 </a> <br>
+   <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 38 - Año 1891.pdf" target="_blank"> El Defensor de Tarifa 38 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 39 - Año 1891.pdf" target="_blank"> El Defensor de Tarifa 39 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 40 - Año 1891.pdf" target="_blank"> El Defensor de Tarifa 40 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 41 - Año 1891.pdf" target="_blank"> El Defensor de Tarifa 41 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 42 - Año 1891.pdf" target="_blank"> El Defensor de Tarifa 42 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 43 - Año 1891.pdf" target="_blank"> El Defensor de Tarifa 43 </a> <br>
+   <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 44 - Año 1891.pdf" target="_blank"> El Defensor de Tarifa 44 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 45 - Año 1891.pdf" target="_blank"> El Defensor de Tarifa 45 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 46 - Año 1891.pdf" target="_blank"> El Defensor de Tarifa 46 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 47 - Año 1891.pdf" target="_blank"> El Defensor de Tarifa 47 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 48 - Año 1891.pdf" target="_blank"> El Defensor de Tarifa 48 </a> <br>
 
  
  
