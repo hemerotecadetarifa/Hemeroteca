@@ -276,6 +276,12 @@
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Nuevo Obrero - 6b - Año 1900.pdf" target="_blank"> Nuevo Obrero 6b </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Nuevo Obrero - 7b - Año 1900.pdf" target="_blank"> Nuevo Obrero 7b </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Nuevo Obrero - 8b - Año 1900.pdf" target="_blank"> Nuevo Obrero 8b </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Nuevo Obrero - 9b - Año 1900.pdf" target="_blank"> Nuevo Obrero 9b </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Nuevo Obrero - 10b - Año 1900.pdf" target="_blank"> Nuevo Obrero 10b </a> <br>
+   <a href="https://hemerotecadetarifa.github.io/hemeroteca/Nuevo Obrero - 11b - Año 1900.pdf" target="_blank"> Nuevo Obrero 11b </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Nuevo Obrero - 12b - Año 1900.pdf" target="_blank"> Nuevo Obrero 12b </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Nuevo Obrero - 14b - Año 1900.pdf" target="_blank"> Nuevo Obrero 14b </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Nuevo Obrero - 15b - Año 1900.pdf" target="_blank"> Nuevo Obrero 15b </a> <br>
  
  
  
