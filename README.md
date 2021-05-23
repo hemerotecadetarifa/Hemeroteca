@@ -192,7 +192,7 @@
  <div> === EL DEFENSOR === <div>
  <br>
 <div>
-  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor 1 - Año 1890.pdf" target="_blank"> El Defensor 1 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 1 - Año 1890.pdf" target="_blank"> El Defensor 1 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 2 - Año 1890.pdf" target="_blank"> El Defensor 2 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 3 - Año 1890.pdf" target="_blank"> El Defensor 3 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 4 - Año 1890.pdf" target="_blank"> El Defensor 4 </a> <br>
@@ -240,6 +240,15 @@
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 46 - Año 1891.pdf" target="_blank"> El Defensor de Tarifa 46 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 47 - Año 1891.pdf" target="_blank"> El Defensor de Tarifa 47 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Defensor - 48 - Año 1891.pdf" target="_blank"> El Defensor de Tarifa 48 </a> <br>
+ 
+   <br>
+ <div> === NUEVO OBRERO === <div>
+ <br>
+<div>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Nuevo Obrero - 1 - Año 1898.pdf" target="_blank"> Nuevo Obrero 1 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Nuevo Obrero - 2 - Año 1898.pdf" target="_blank"> Nuevo Obrero 2 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Nuevo Obrero - 3 - Año 1898.pdf" target="_blank"> Nuevo Obrero 3 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Nuevo Obrero - 4 - Año 1898.pdf" target="_blank"> Nuevo Obrero 4 </a> <br>
 
  
  
