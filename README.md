@@ -270,7 +270,21 @@
    <a href="https://hemerotecadetarifa.github.io/hemeroteca/Nuevo Obrero - 23 - Año 1898.pdf" target="_blank"> Nuevo Obrero 23 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Nuevo Obrero - 24 - Año 1899.pdf" target="_blank"> Nuevo Obrero 24 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Nuevo Obrero - 25 - Año 1899.pdf" target="_blank"> Nuevo Obrero 25 </a> <br>
- <a href="https://hemerotecadetarifa.github.io/hemeroteca/Nuevo Obrero - 3b - Año 1899.pdf" target="_blank"> Nuevo Obrero 36 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Nuevo Obrero - 3b - Año 1899.pdf" target="_blank"> Nuevo Obrero 3b </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Nuevo Obrero - 4b - Año 1899.pdf" target="_blank"> Nuevo Obrero 4b </a> <br>
+   <a href="https://hemerotecadetarifa.github.io/hemeroteca/Nuevo Obrero - 5b - Año 1899.pdf" target="_blank"> Nuevo Obrero 5b </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Nuevo Obrero - 6b - Año 1900.pdf" target="_blank"> Nuevo Obrero 6b </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Nuevo Obrero - 7b - Año 1900.pdf" target="_blank"> Nuevo Obrero 7b </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Nuevo Obrero - 8b - Año 1900.pdf" target="_blank"> Nuevo Obrero 8b </a> <br>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
  
  
