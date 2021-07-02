@@ -330,6 +330,12 @@
 <div>
   <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Anunciador - 1 - Año 1907.pdf" target="_blank"> El Anunciador 1 </a> <br>
  
+  <br>
+ <div> === LA VOZ DEL PUEBLO === <div>
+ <br>
+<div>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/La Voz del Pueblo - 1 - Año 1897.pdf" target="_blank"> La Voz el Pueblo 1 </a> <br>
+ 
  
  
  
