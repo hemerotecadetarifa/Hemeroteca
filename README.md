@@ -293,10 +293,10 @@
   <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Centinela del Estrecho - 6 A - Año 1901.pdf" target="_blank"> El Centinela del Estrecho 6a </a> <br>
   <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Centinela del Estrecho - 6 B - Año 1901.pdf" target="_blank"> El Centinela del Estrecho 6b </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Centinela del Estrecho - 7 - Año 1901.pdf" target="_blank"> El Centinela del Estrecho 7 </a> <br>
-  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Centinela del Estrecho - 1 - Año 1901.pdf" target="_blank"> El Centinela del Estrecho 1 </a> <br>
-  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Centinela del Estrecho - 1 - Año 1901.pdf" target="_blank"> El Centinela del Estrecho 1 </a> <br>
-  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Centinela del Estrecho - 1 - Año 1901.pdf" target="_blank"> El Centinela del Estrecho 1 </a> <br>
-  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Centinela del Estrecho - 1 - Año 1901.pdf" target="_blank"> El Centinela del Estrecho 1 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Centinela del Estrecho - 8 - Año 1902.pdf" target="_blank"> El Centinela del Estrecho 8 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Centinela del Estrecho - 9 - Año 1902.pdf" target="_blank"> El Centinela del Estrecho 9 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Centinela del Estrecho - 10 - Año 1902.pdf" target="_blank"> El Centinela del Estrecho 10 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Centinela del Estrecho - 11 - Año 1902.pdf" target="_blank"> El Centinela del Estrecho 11 </a> <br>
  
  
  
