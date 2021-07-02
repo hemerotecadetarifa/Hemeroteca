@@ -283,6 +283,12 @@
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Nuevo Obrero - 14b - Año 1900.pdf" target="_blank"> Nuevo Obrero 14b </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Nuevo Obrero - 15b - Año 1900.pdf" target="_blank"> Nuevo Obrero 15b </a> <br>
  
+   <br>
+ <div> === EL CENTINELA DEL ESTRECHO === <div>
+ <br>
+<div>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Centinela del Estrecho - 1 - Año 1901.pdf" target="_blank"> El Centinela del Estrecho 1 </a> <br>
+ 
  
  
  
