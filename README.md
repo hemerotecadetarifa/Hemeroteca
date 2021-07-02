@@ -324,6 +324,12 @@
    <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Centinela del Estrecho - 36 - Año 1902.pdf" target="_blank"> El Centinela del Estrecho 36 </a> <br>
   <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Centinela del Estrecho - 37 - Año 1902.pdf" target="_blank"> El Centinela del Estrecho 37 </a> <br>
  
+  <br>
+ <div> === EL ANUNCIADOR === <div>
+ <br>
+<div>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Anunciador - 1 - Año 1907.pdf" target="_blank"> El Anunciador 1 </a> <br>
+ 
  
  
  
