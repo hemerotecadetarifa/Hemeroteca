@@ -297,6 +297,17 @@
   <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Centinela del Estrecho - 9 - Año 1902.pdf" target="_blank"> El Centinela del Estrecho 9 </a> <br>
   <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Centinela del Estrecho - 10 - Año 1902.pdf" target="_blank"> El Centinela del Estrecho 10 </a> <br>
   <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Centinela del Estrecho - 11 - Año 1902.pdf" target="_blank"> El Centinela del Estrecho 11 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Centinela del Estrecho - 12 - Año 1902.pdf" target="_blank"> El Centinela del Estrecho 12 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Centinela del Estrecho - 13 - Año 1902.pdf" target="_blank"> El Centinela del Estrecho 13 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Centinela del Estrecho - 14 - Año 1902.pdf" target="_blank"> El Centinela del Estrecho 14 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Centinela del Estrecho - 15 - Año 1902.pdf" target="_blank"> El Centinela del Estrecho 15 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Centinela del Estrecho - 16 - Año 1902.pdf" target="_blank"> El Centinela del Estrecho 16 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Centinela del Estrecho - 17 - Año 1902.pdf" target="_blank"> El Centinela del Estrecho 17 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Centinela del Estrecho - 18 - Año 1902.pdf" target="_blank"> El Centinela del Estrecho 18 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Centinela del Estrecho - 19 - Año 1902.pdf" target="_blank"> El Centinela del Estrecho 19 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Centinela del Estrecho - 20 - Año 1902.pdf" target="_blank"> El Centinela del Estrecho 20 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Centinela del Estrecho - 21 - Año 1902.pdf" target="_blank"> El Centinela del Estrecho 21 </a> <br>
+ 
  
  
  
