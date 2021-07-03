@@ -348,6 +348,11 @@
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Anunciador - 19 - Año 1907.pdf" target="_blank"> El Anunciador 19 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Anunciador - 20 - Año 1907.pdf" target="_blank"> El Anunciador 20 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Anunciador - 21 - Año 1907.pdf" target="_blank"> El Anunciador 21 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Anunciador - 22 - Año 1907.pdf" target="_blank"> El Anunciador 22 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Anunciador - 23 - Año 1907.pdf" target="_blank"> El Anunciador 23 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Anunciador - 24 - Año 1907.pdf" target="_blank"> El Anunciador 23 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Anunciador - 24 - Año 1907.pdf" target="_blank"> El Anunciador 24 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Anunciador - 26 - Año 1907.pdf" target="_blank"> El Anunciador 26 </a> <br>
  
   <br>
  <div> === LA VOZ DEL PUEBLO === <div>
