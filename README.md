@@ -490,6 +490,26 @@
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 84 - Año 1893.pdf" target="_blank"> El Tarifeño 84 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 85 - Año 1893.pdf" target="_blank"> El Tarifeño 85 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 86 - Año 1893.pdf" target="_blank"> El Tarifeño 86 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 87 - Año 1893.pdf" target="_blank"> El Tarifeño 87 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 88 - Año 1893.pdf" target="_blank"> El Tarifeño 88 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 89 - Año 1893.pdf" target="_blank"> El Tarifeño 89 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 90 - Año 1893.pdf" target="_blank"> El Tarifeño 90 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 91 - Año 1893.pdf" target="_blank"> El Tarifeño 91 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 92 - Año 1893.pdf" target="_blank"> El Tarifeño 92 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 93 - Año 1893.pdf" target="_blank"> El Tarifeño 93 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 94 - Año 1893.pdf" target="_blank"> El Tarifeño 94 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 95 - Año 1893.pdf" target="_blank"> El Tarifeño 95 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 96 - Año 1893.pdf" target="_blank"> El Tarifeño 96 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 97 - Año 1893.pdf" target="_blank"> El Tarifeño 97 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 98 - Año 1893.pdf" target="_blank"> El Tarifeño 98 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 99 - Año 1893.pdf" target="_blank"> El Tarifeño 99 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 100 - Año 1893.pdf" target="_blank"> El Tarifeño 100 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 101 - Año 1893.pdf" target="_blank"> El Tarifeño 101 </a> <br>
+   <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 102 - Año 1893.pdf" target="_blank"> El Tarifeño 102 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 103 - Año 1893.pdf" target="_blank"> El Tarifeño 103 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 105 - Año 1894.pdf" target="_blank"> El Tarifeño 104 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 106 - Año 1894.pdf" target="_blank"> El Tarifeño 105 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 107 - Año 1894.pdf" target="_blank"> El Tarifeño 106 </a> <br>
  
  
  
