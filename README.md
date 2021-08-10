@@ -414,7 +414,31 @@
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 6 - Año 1892.pdf" target="_blank"> El Tarifeño 6 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 7 - Año 1892.pdf" target="_blank"> El Tarifeño 7 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 8 - Año 1892.pdf" target="_blank"> El Tarifeño 8 </a> <br>
- <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 9 - Año 1892.pdf" target="_blank"> El Tarifeño 9 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 10 - Año 1892.pdf" target="_blank"> El Tarifeño 10 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 11 - Año 1891.pdf" target="_blank"> El Tarifeño 11 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 12 - Año 1891.pdf" target="_blank"> El Tarifeño 12 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 13 - Año 1892.pdf" target="_blank"> El Tarifeño 13 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 14 - Año 1892.pdf" target="_blank"> El Tarifeño 14 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 15 - Año 1892.pdf" target="_blank"> El Tarifeño 15 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 16 - Año 1892.pdf" target="_blank"> El Tarifeño 16 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 17 - Año 1892.pdf" target="_blank"> El Tarifeño 17 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 18 - Año 1892.pdf" target="_blank"> El Tarifeño 18 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 19 - Año 1891.pdf" target="_blank"> El Tarifeño 19 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 20 - Año 1891.pdf" target="_blank"> El Tarifeño 20 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 21 - Año 1892.pdf" target="_blank"> El Tarifeño 21 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 22 - Año 1892.pdf" target="_blank"> El Tarifeño 22 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 23 - Año 1892.pdf" target="_blank"> El Tarifeño 23 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 24 - Año 1892.pdf" target="_blank"> El Tarifeño 24 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 25 - Año 1892.pdf" target="_blank"> El Tarifeño 25 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 26 - Año 1892.pdf" target="_blank"> El Tarifeño 26 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 27 - Año 1891.pdf" target="_blank"> El Tarifeño 27 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 28 - Año 1891.pdf" target="_blank"> El Tarifeño 28 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 29 - Año 1892.pdf" target="_blank"> El Tarifeño 29 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 30 - Año 1892.pdf" target="_blank"> El Tarifeño 30 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 31 - Año 1892.pdf" target="_blank"> El Tarifeño 31 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 32 - Año 1892.pdf" target="_blank"> El Tarifeño 32 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 33 - Año 1892.pdf" target="_blank"> El Tarifeño 33 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 34 - Año 1892.pdf" target="_blank"> El Tarifeño 34 </a> <br>
  
  
  
