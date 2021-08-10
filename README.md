@@ -395,8 +395,13 @@
  <br>
 <div>
   <a href="https://hemerotecadetarifa.github.io/hemeroteca/Baelo - 1 - Año 1983.pdf" target="_blank"> Baelo 1 </a> <br>
- <a href="https://hemerotecadetarifa.github.io/hemeroteca/La Voz del Pueblo - 2 - Año 1897.pdf" target="_blank"> La Voz el Pueblo 2 </a> <br>
- <a href="https://hemerotecadetarifa.github.io/hemeroteca/La Voz del Pueblo - 3 - Año 1897.pdf" target="_blank"> La Voz el Pueblo 3 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Baelo - 2 - Año 1984.pdf" target="_blank"> Baelo 2 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Baelo - 3 - Año 1984.pdf" target="_blank"> Baelo 3 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Baelo - 4 - Año 1984.pdf" target="_blank"> Baelo 4 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Baelo - 5 - Año 1985.pdf" target="_blank"> Baelo 5 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Baelo - 6 - Año 1985.pdf" target="_blank"> Baelo 6 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Baelo - 7 - Año 1985.pdf" target="_blank"> Baelo 7 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Baelo - 8 - Año 1985.pdf" target="_blank"> Baelo 8 </a> <br>
  
  
  
