@@ -390,6 +390,14 @@
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/La Voz del Pueblo - 41 - Año 1898.pdf" target="_blank"> La Voz el Pueblo 41 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/La Voz del Pueblo - 42 - Año 1898.pdf" target="_blank"> La Voz el Pueblo 42 </a> <br>
  
+  <br>
+ <div> === BAELO === <div>
+ <br>
+<div>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Baelo - 1- Año 1983.pdf" target="_blank"> Baelo 1 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/La Voz del Pueblo - 2 - Año 1897.pdf" target="_blank"> La Voz el Pueblo 2 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/La Voz del Pueblo - 3 - Año 1897.pdf" target="_blank"> La Voz el Pueblo 3 </a> <br>
+ 
  
  
  
