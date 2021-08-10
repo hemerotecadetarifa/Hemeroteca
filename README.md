@@ -507,9 +507,9 @@
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 101 - Año 1893.pdf" target="_blank"> El Tarifeño 101 </a> <br>
    <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 102 - Año 1893.pdf" target="_blank"> El Tarifeño 102 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 103 - Año 1893.pdf" target="_blank"> El Tarifeño 103 </a> <br>
- <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 105 - Año 1894.pdf" target="_blank"> El Tarifeño 104 </a> <br>
- <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 106 - Año 1894.pdf" target="_blank"> El Tarifeño 105 </a> <br>
- <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 107 - Año 1894.pdf" target="_blank"> El Tarifeño 106 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 105 - Año 1894.pdf" target="_blank"> El Tarifeño 105 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 106 - Año 1894.pdf" target="_blank"> El Tarifeño 106 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 107 - Año 1894.pdf" target="_blank"> El Tarifeño 107 </a> <br>
  
  
  
