@@ -403,6 +403,19 @@
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Baelo - 7 - Año 1985.pdf" target="_blank"> Baelo 7 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Baelo - 8 - Año 1985.pdf" target="_blank"> Baelo 8 </a> <br>
  
+ <br>
+ <div> === EL TARIFEÑO === <div>
+ <br>
+<div>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 2 - Año 1891.pdf" target="_blank"> El Tarifeño 2 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 3 - Año 1891.pdf" target="_blank"> El Tarifeño 3 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 4 - Año 1892.pdf" target="_blank"> El Tarifeño 4 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 5 - Año 1892.pdf" target="_blank"> El Tarifeño 5 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 6 - Año 1892.pdf" target="_blank"> El Tarifeño 6 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 7 - Año 1892.pdf" target="_blank"> El Tarifeño 7 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 8 - Año 1892.pdf" target="_blank"> El Tarifeño 8 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/El Tarifeño - 9 - Año 1892.pdf" target="_blank"> El Tarifeño 9 </a> <br>
+ 
  
  
  
