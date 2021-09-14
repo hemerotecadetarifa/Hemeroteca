@@ -516,6 +516,12 @@
  <br>
 <div>
   <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 1 - Año 1924.pdf" target="_blank"> Unión de Tarifa 1 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 2 - Año 1924.pdf" target="_blank"> Unión de Tarifa 2 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 3 - Año 1924.pdf" target="_blank"> Unión de Tarifa 3 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 4 - Año 1924.pdf" target="_blank"> Unión de Tarifa 4 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 5 - Año 1924.pdf" target="_blank"> Unión de Tarifa 5 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 6 - Año 1924.pdf" target="_blank"> Unión de Tarifa 6 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 7 - Año 1924.pdf" target="_blank"> Unión de Tarifa 7 </a> <br>
  
  
  
