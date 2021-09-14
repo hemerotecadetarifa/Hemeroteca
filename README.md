@@ -522,6 +522,20 @@
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 5 - Año 1924.pdf" target="_blank"> Unión de Tarifa 5 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 6 - Año 1924.pdf" target="_blank"> Unión de Tarifa 6 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 7 - Año 1924.pdf" target="_blank"> Unión de Tarifa 7 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 8 - Año 1925.pdf" target="_blank"> Unión de Tarifa 8 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 9 - Año 1925.pdf" target="_blank"> Unión de Tarifa 9 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 10 - Año 1925.pdf" target="_blank"> Unión de Tarifa 10 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 11 - Año 1925.pdf" target="_blank"> Unión de Tarifa 11 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 12 - Año 1925.pdf" target="_blank"> Unión de Tarifa 12 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 13 - Año 1925.pdf" target="_blank"> Unión de Tarifa 13 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 14 - Año 1925.pdf" target="_blank"> Unión de Tarifa 14 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 15 - Año 1925.pdf" target="_blank"> Unión de Tarifa 15 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 16 - Año 1925.pdf" target="_blank"> Unión de Tarifa 16 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 17 - Año 1925.pdf" target="_blank"> Unión de Tarifa 17 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 18 - Año 1925.pdf" target="_blank"> Unión de Tarifa 18 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 19 - Año 1925.pdf" target="_blank"> Unión de Tarifa 19 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 20 - Año 1925.pdf" target="_blank"> Unión de Tarifa 20 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 21 - Año 1925.pdf" target="_blank"> Unión de Tarifa 21 </a> <br>
  
  
  
