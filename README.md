@@ -643,6 +643,12 @@
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 125 - Año 1927.pdf" target="_blank"> Unión de Tarifa 125 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 126 - Año 1927.pdf" target="_blank"> Unión de Tarifa 126 </a> <br>
   <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 127 - Año 1927.pdf" target="_blank"> Unión de Tarifa 127 </a> <br>
+ 
+   <br>
+ <div> === TARIFA, LA VOZ DE UN PUEBLO === <div>
+ <br>
+<div>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Tarifa, la Voz de un Pueblo - 1 - Año 1995.pdf" target="_blank"> Tarifa, la Voz de un Pueblo 1 </a> <br>
 
  
  
