@@ -642,7 +642,8 @@
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 124 - Año 1927.pdf" target="_blank"> Unión de Tarifa 124 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 125 - Año 1927.pdf" target="_blank"> Unión de Tarifa 125 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 126 - Año 1927.pdf" target="_blank"> Unión de Tarifa 126 </a> <br>
- <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 127 - Año 1927.pdf" target="_blank"> Unión de Tarifa 127 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 127 - Año 1927.pdf" target="_blank"> Unión de Tarifa 129 </a> <br>
+
  
  
  
