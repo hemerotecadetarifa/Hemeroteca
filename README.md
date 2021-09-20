@@ -627,22 +627,22 @@
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 109 - Año 1926.pdf" target="_blank"> Unión de Tarifa 109 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 110 - Año 1926.pdf" target="_blank"> Unión de Tarifa 110 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 111 - Año 1926.pdf" target="_blank"> Unión de Tarifa 111 </a> <br>
- <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 112 - Año 1926.pdf" target="_blank"> Unión de Tarifa 112 </a> <br>
- <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 113 - Año 1926.pdf" target="_blank"> Unión de Tarifa 113 </a> <br>
- <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 114 - Año 1926.pdf" target="_blank"> Unión de Tarifa 114 </a> <br>
- <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 115 - Año 1926.pdf" target="_blank"> Unión de Tarifa 115 </a> <br>
- <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 116 - Año 1926.pdf" target="_blank"> Unión de Tarifa 116 </a> <br>
- <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 117 - Año 1926.pdf" target="_blank"> Unión de Tarifa 117</a> <br>
- <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 118 - Año 1926.pdf" target="_blank"> Unión de Tarifa 118 </a> <br>
- <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 119 - Año 1926.pdf" target="_blank"> Unión de Tarifa 119 </a> <br>
- <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 120 - Año 1926.pdf" target="_blank"> Unión de Tarifa 120 </a> <br>
- <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 121 - Año 1926.pdf" target="_blank"> Unión de Tarifa 121 </a> <br>
- <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 122 - Año 1926.pdf" target="_blank"> Unión de Tarifa 122 </a> <br>
- <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 123 - Año 1926.pdf" target="_blank"> Unión de Tarifa 123 </a> <br>
- <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 124 - Año 1926.pdf" target="_blank"> Unión de Tarifa 124 </a> <br>
- <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 125 - Año 1926.pdf" target="_blank"> Unión de Tarifa 125 </a> <br>
- <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 126 - Año 1926.pdf" target="_blank"> Unión de Tarifa 126 </a> <br>
- <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 127 - Año 1926.pdf" target="_blank"> Unión de Tarifa 127 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 112 - Año 1927.pdf" target="_blank"> Unión de Tarifa 112 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 113 - Año 1927.pdf" target="_blank"> Unión de Tarifa 113 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 114 - Año 1927.pdf" target="_blank"> Unión de Tarifa 114 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 115 - Año 1927.pdf" target="_blank"> Unión de Tarifa 115 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 116 - Año 1927.pdf" target="_blank"> Unión de Tarifa 116 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 117 - Año 1927.pdf" target="_blank"> Unión de Tarifa 117</a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 118 - Año 1927.pdf" target="_blank"> Unión de Tarifa 118 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 119 - Año 1927.pdf" target="_blank"> Unión de Tarifa 119 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 120 - Año 1927.pdf" target="_blank"> Unión de Tarifa 120 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 121 - Año 1927.pdf" target="_blank"> Unión de Tarifa 121 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 122 - Año 1927.pdf" target="_blank"> Unión de Tarifa 122 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 123 - Año 1927.pdf" target="_blank"> Unión de Tarifa 123 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 124 - Año 1927.pdf" target="_blank"> Unión de Tarifa 124 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 125 - Año 1927.pdf" target="_blank"> Unión de Tarifa 125 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 126 - Año 1927.pdf" target="_blank"> Unión de Tarifa 126 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 127 - Año 1927.pdf" target="_blank"> Unión de Tarifa 127 </a> <br>
  
  
  
