@@ -698,6 +698,11 @@
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Tarifa, la Voz de un Pueblo - 48 - Año 1997.pdf" target="_blank"> Tarifa, la Voz de un Pueblo 48 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Tarifa, la Voz de un Pueblo - 49 - Año 1997.pdf" target="_blank"> Tarifa, la Voz de un Pueblo 49 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Tarifa, la Voz de un Pueblo - 50 - Año 1997.pdf" target="_blank"> Tarifa, la Voz de un Pueblo 50 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Tarifa, la Voz de un Pueblo - 51 - Año 1997.pdf" target="_blank"> Tarifa, la Voz de un Pueblo 51 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Tarifa, la Voz de un Pueblo - 52 - Año 1997.pdf" target="_blank"> Tarifa, la Voz de un Pueblo 52 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Tarifa, la Voz de un Pueblo - 53 - Año 1997.pdf" target="_blank"> Tarifa, la Voz de un Pueblo 53 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Tarifa, la Voz de un Pueblo - 54 - Año 1997.pdf" target="_blank"> Tarifa, la Voz de un Pueblo 54 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Tarifa, la Voz de un Pueblo - 55 - Año 1997.pdf" target="_blank"> Tarifa, la Voz de un Pueblo 55 </a> <br>
  
  
  
