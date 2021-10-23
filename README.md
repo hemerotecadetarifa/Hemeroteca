@@ -670,6 +670,14 @@
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 152 - Año 1927.pdf" target="_blank"> Unión de Tarifa 152 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 153 - Año 1927.pdf" target="_blank"> Unión de Tarifa 153 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 154 - Año 1927.pdf" target="_blank"> Unión de Tarifa 154 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 155 - Año 1927.pdf" target="_blank"> Unión de Tarifa 155 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 156 - Año 1927.pdf" target="_blank"> Unión de Tarifa 156 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 157 - Año 1927.pdf" target="_blank"> Unión de Tarifa 157 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 158 - Año 1927.pdf" target="_blank"> Unión de Tarifa 158 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 159 - Año 1927.pdf" target="_blank"> Unión de Tarifa 159 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 160 - Año 1927.pdf" target="_blank"> Unión de Tarifa 160 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 161 - Año 1927.pdf" target="_blank"> Unión de Tarifa 161 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 162 - Año 1927.pdf" target="_blank"> Unión de Tarifa 162 </a> <br>
  
    <br>
  <div> === TARIFA, LA VOZ DE UN PUEBLO === <div>
