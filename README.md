@@ -723,6 +723,10 @@
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 207 - Año 1928.pdf" target="_blank"> Unión de Tarifa 207 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 209 - Año 1928.pdf" target="_blank"> Unión de Tarifa 209 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 211 - Año 1928.pdf" target="_blank"> Unión de Tarifa 211 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 212 - Año 1928.pdf" target="_blank"> Unión de Tarifa 212 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 214 - Año 1928.pdf" target="_blank"> Unión de Tarifa 214 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 215 - Año 1928.pdf" target="_blank"> Unión de Tarifa 216 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 216 - Año 1928.pdf" target="_blank"> Unión de Tarifa 211 </a> <br>
  
    <br>
  <div> === TARIFA, LA VOZ DE UN PUEBLO === <div>
