@@ -686,6 +686,24 @@
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 168 - Año 1928.pdf" target="_blank"> Unión de Tarifa 168 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 169 - Año 1928.pdf" target="_blank"> Unión de Tarifa 169 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 170 - Año 1928.pdf" target="_blank"> Unión de Tarifa 170 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 171 - Año 1928.pdf" target="_blank"> Unión de Tarifa 171 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 172 - Año 1928.pdf" target="_blank"> Unión de Tarifa 172 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 173 - Año 1928.pdf" target="_blank"> Unión de Tarifa 173 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 174 - Año 1928.pdf" target="_blank"> Unión de Tarifa 174 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 175 - Año 1928.pdf" target="_blank"> Unión de Tarifa 175 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 176 - Año 1928.pdf" target="_blank"> Unión de Tarifa 176 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 178 - Año 1928.pdf" target="_blank"> Unión de Tarifa 178 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 179 - Año 1928.pdf" target="_blank"> Unión de Tarifa 179 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 180 - Año 1928.pdf" target="_blank"> Unión de Tarifa 180 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 181 - Año 1928.pdf" target="_blank"> Unión de Tarifa 181 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 182 - Año 1928.pdf" target="_blank"> Unión de Tarifa 182 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 183 - Año 1928.pdf" target="_blank"> Unión de Tarifa 183 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 184 - Año 1928.pdf" target="_blank"> Unión de Tarifa 184 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 185 - Año 1928.pdf" target="_blank"> Unión de Tarifa 185 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 186 - Año 1928.pdf" target="_blank"> Unión de Tarifa 186 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 187 - Año 1928.pdf" target="_blank"> Unión de Tarifa 187 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 188 - Año 1928.pdf" target="_blank"> Unión de Tarifa 188 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 189 - Año 1928.pdf" target="_blank"> Unión de Tarifa 189 </a> <br>
  
    <br>
  <div> === TARIFA, LA VOZ DE UN PUEBLO === <div>
