@@ -736,6 +736,20 @@
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 223 - Año 1929.pdf" target="_blank"> Unión de Tarifa 223 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 224 - Año 1929.pdf" target="_blank"> Unión de Tarifa 224 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 225 - Año 1929.pdf" target="_blank"> Unión de Tarifa 225 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 226 - Año 1929.pdf" target="_blank"> Unión de Tarifa 226 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 227 - Año 1929.pdf" target="_blank"> Unión de Tarifa 227 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 228 - Año 1929.pdf" target="_blank"> Unión de Tarifa 228 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 229 - Año 1929.pdf" target="_blank"> Unión de Tarifa 229 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 230 - Año 1929.pdf" target="_blank"> Unión de Tarifa 230 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 231 - Año 1929.pdf" target="_blank"> Unión de Tarifa 231 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 232 - Año 1929.pdf" target="_blank"> Unión de Tarifa 232 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 233 - Año 1929.pdf" target="_blank"> Unión de Tarifa 233 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 234 - Año 1929.pdf" target="_blank"> Unión de Tarifa 234 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 235 - Año 1929.pdf" target="_blank"> Unión de Tarifa 235 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 236 - Año 1929.pdf" target="_blank"> Unión de Tarifa 236 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 237 - Año 1929.pdf" target="_blank"> Unión de Tarifa 237 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 238 - Año 1929.pdf" target="_blank"> Unión de Tarifa 238 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 239 - Año 1929.pdf" target="_blank"> Unión de Tarifa 239 </a> <br>
  
    <br>
  <div> === TARIFA, LA VOZ DE UN PUEBLO === <div>
