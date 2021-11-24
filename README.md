@@ -821,6 +821,16 @@
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 309 - Año 1930.pdf" target="_blank"> Unión de Tarifa 309 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 310 - Año 1930.pdf" target="_blank"> Unión de Tarifa 310 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 311 - Año 1930.pdf" target="_blank"> Unión de Tarifa 311 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 312 - Año 1930.pdf" target="_blank"> Unión de Tarifa 312 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 313 - Año 1930.pdf" target="_blank"> Unión de Tarifa 313 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 314 - Año 1930.pdf" target="_blank"> Unión de Tarifa 314 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 315 - Año 1930.pdf" target="_blank"> Unión de Tarifa 315 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 316 - Año 1930.pdf" target="_blank"> Unión de Tarifa 316 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 317 - Año 1930.pdf" target="_blank"> Unión de Tarifa 317 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 318 - Año 1930.pdf" target="_blank"> Unión de Tarifa 318 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 319 - Año 1930.pdf" target="_blank"> Unión de Tarifa 319 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 320 - Año 1930.pdf" target="_blank"> Unión de Tarifa 320 </a> <br>
+
  
    <br>
  <div> === TARIFA, LA VOZ DE UN PUEBLO === <div>
