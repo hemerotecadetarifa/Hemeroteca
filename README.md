@@ -852,7 +852,8 @@
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 340 - Año 1931.pdf" target="_blank"> Unión de Tarifa 340 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 341 - Año 1931.pdf" target="_blank"> Unión de Tarifa 341 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 342 - Año 1931.pdf" target="_blank"> Unión de Tarifa 342 </a> <br>
- <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 343 - Año 1931.pdf" target="_blank"> Unión de Tarifa 343 </a> <br
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 343 - Año 1931.pdf" target="_blank"> Unión de Tarifa 343 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 329 - Año 1931.pdf" target="_blank"> Unión de Tarifa 329 </a> <br>
  
    <br>
  
