@@ -841,7 +841,18 @@
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 329 - Año 1931.pdf" target="_blank"> Unión de Tarifa 329 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 330 - Año 1931.pdf" target="_blank"> Unión de Tarifa 330 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 331 - Año 1931.pdf" target="_blank"> Unión de Tarifa 331 </a> <br>
-
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 332 - Año 1931.pdf" target="_blank"> Unión de Tarifa 332 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 333 - Año 1931.pdf" target="_blank"> Unión de Tarifa 333 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 334 - Año 1931.pdf" target="_blank"> Unión de Tarifa 334 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 335 - Año 1931.pdf" target="_blank"> Unión de Tarifa 335 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 336 - Año 1931.pdf" target="_blank"> Unión de Tarifa 336 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 337 - Año 1931.pdf" target="_blank"> Unión de Tarifa 337 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 338 - Año 1931.pdf" target="_blank"> Unión de Tarifa 338 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 339 - Año 1931.pdf" target="_blank"> Unión de Tarifa 339 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 340 - Año 1931.pdf" target="_blank"> Unión de Tarifa 340 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 341 - Año 1931.pdf" target="_blank"> Unión de Tarifa 341 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 342 - Año 1931.pdf" target="_blank"> Unión de Tarifa 342 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 343 - Año 1931.pdf" target="_blank"> Unión de Tarifa 343 </a> <br
  
    <br>
  <div> === TARIFA, LA VOZ DE UN PUEBLO === <div>
