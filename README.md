@@ -176,7 +176,7 @@
   <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 80 - Año 2011.pdf" target="_blank"> Aljaranda 80 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 81 - Año 2011.pdf" target="_blank"> Aljaranda 81 </a> <br>
   <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 82 - Año 2011.pdf" target="_blank"> Aljaranda 82 </a> <br>
-  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 83 - Año 2011.pdf" target="_blank"> Aljaranda 83 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 83 - Año 2011.pdf" target="_blank"> Aljaranda 83 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 84 - Año 2012.pdf" target="_blank"> Aljaranda 84 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 85 - Año 2012.pdf" target="_blank"> Aljaranda 85 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 86 - Año 2012.pdf" target="_blank"> Aljaranda 86 </a> <br>
@@ -187,7 +187,7 @@
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 91 - Año 2017.pdf" target="_blank"> Aljaranda 91 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 92 - Año 2018.pdf" target="_blank"> Aljaranda 92 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 93 - Año 2020.pdf" target="_blank"> Aljaranda 93 </a> <br>
- <a href="https://github.com/hemerotecadetarifa/hemeroteca/raw/main/Aljaranda - 94 - Año 2021.pdf" target=_parent"> Aljaranda 94 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 94 - Año 2021.pdf" target="_blank"> Aljaranda 94 </a> <br>
  
   <br>
  <div> === EL DEFENSOR === <div>
