@@ -972,6 +972,7 @@
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Tarifa, la Voz de un Pueblo - 110 - Año 2000.pdf" target="_blank"> Tarifa, la Voz de un Pueblo 110 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Tarifa, la Voz de un Pueblo - 111 - Año 2000.pdf" target="_blank"> Tarifa, la Voz de un Pueblo 111 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Tarifa, la Voz de un Pueblo - 112 - Año 2000.pdf" target="_blank"> Tarifa, la Voz de un Pueblo 112 </a> <br>
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Tarifa, la Voz de un Pueblo - 113 - Año 2000.pdf" target="_blank"> Tarifa, la Voz de un Pueblo 113 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Tarifa, la Voz de un Pueblo - 114 - Año 2000.pdf" target="_blank"> Tarifa, la Voz de un Pueblo 114 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Tarifa, la Voz de un Pueblo - 115 - Año 2000.pdf" target="_blank"> Tarifa, la Voz de un Pueblo 115 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Tarifa, la Voz de un Pueblo - 116 - 117 - Año 2000.pdf" target="_blank"> Tarifa, la Voz de un Pueblo 116-117 </a> <br>
