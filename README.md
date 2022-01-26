@@ -1,5 +1,3 @@
-(https://github.com/hemerotecadetarifa/hemeroteca/files/7943718/Union.de.Tarifa.-.1.-.Ano.1924.pdf)
-
 <div> ===PUERTA DE JEREZ === <div>
  <br>
 <div>
