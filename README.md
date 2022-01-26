@@ -854,8 +854,7 @@
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 341 - Año 1931.pdf" target="_blank"> Unión de Tarifa 341 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 342 - Año 1931.pdf" target="_blank"> Unión de Tarifa 342 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 343 - Año 1931.pdf" target="_blank"> Unión de Tarifa 343 </a> <br>
- <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 344 - Año 1931.pdf" target="_blank"> Unión de Tarifa 344 </a> <br>  
-  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Aljaranda - 94 - Año 2021.pdf" target="_blank">  Aljaranda 94 </a> <br> 
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Unión de Tarifa - 344 - Año 1931.pdf" target="_blank"> Unión de Tarifa 344 </a> <br>   
  
    <br>
  
