@@ -886,8 +886,8 @@
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Tarifa, la Voz de un Pueblo - 22 - Año 1996.pdf" target="_blank"> Tarifa, la Voz de un Pueblo 22 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Tarifa, la Voz de un Pueblo - 23 - Año 1996.pdf" target="_blank"> Tarifa, la Voz de un Pueblo 23 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Tarifa, la Voz de un Pueblo - 24 - Año 1996.pdf" target="_blank"> Tarifa, la Voz de un Pueblo 24 </a> <br>
- <a href="https://hemerotecadetarifa.github.io/hemeroteca/Tarifa, la Voz de un Pueblo - 25 - Año 1996.pdf" target="_blank"> Tarifa, la Voz de un Pueblo 26 </a> <br>
- <a href="https://hemerotecadetarifa.github.io/hemeroteca/Tarifa, la Voz de un Pueblo - 26 - Año 1996.pdf" target="_blank"> Tarifa, la Voz de un Pueblo 26 </a> <br>
+ <a href="https://hemerotecadetarifa.github.io/hemeroteca/Tarifa, la Voz de un Pueblo - 25 - Año 1996.pdf" target="_blank"> Tarifa, la Voz de un Pueblo 25 </a> <br>
+ <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Tarifa, la Voz de un Pueblo - 26 - Año 1996.pdf" target="_blank"> Tarifa, la Voz de un Pueblo 26 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Tarifa, la Voz de un Pueblo - 27 - Año 1996.pdf" target="_blank"> Tarifa, la Voz de un Pueblo 27 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Tarifa, la Voz de un Pueblo - 28 - Año 1996.pdf" target="_blank"> Tarifa, la Voz de un Pueblo 28 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Tarifa, la Voz de un Pueblo - 29 - Año 1996.pdf" target="_blank"> Tarifa, la Voz de un Pueblo 29 </a> <br>
