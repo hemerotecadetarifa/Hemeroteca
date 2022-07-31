@@ -987,6 +987,8 @@
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Tarifa, la Voz de un pueblo - 128 - Año 2001.pdf" target="_blank"> Tarifa, la Voz de un Pueblo 128 </a> <br>
  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Tarifa, la Voz de un pueblo - 130 - Año 2001.pdf" target="_blank"> Tarifa, la Voz de un Pueblo 130 </a> <br>
  
+  <a href="https://hemerotecadetarifa.github.io/hemeroteca/Virgen de la Luz - Año 1916.pdf" target="_blank"> Virgen de la Luz - Año 1916 </a> <br>
+ 
  
  
  
